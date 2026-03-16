@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/kc9302/kc9302/main/banner.png" width="100%" alt="Profile Banner">
   <br/>
-  <h1>👋 안녕하세요! 끊임없이 성장하는 개발자 kc9302(이름 입력)입니다.</h1>
+  <h1>👋 안녕하세요! 끊임없이 성장하는 개발자 입니다.</h1>
   <p align="center">
     <img src="https://img.shields.io/badge/Main_Focus-AI_Agent-violet?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Stack-Python_%7C_Flutter-blue?style=for-the-badge&logo=python&logoColor=white" />
