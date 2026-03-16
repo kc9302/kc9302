@@ -40,15 +40,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kc9302&theme=transparent&hide_border=true&stroke=7957d5&ring=7957d5&fire=7957d5&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </p>
 ---
-### 📫 Contact & Channels
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://your-blog.com">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-  </a>
-</p>
