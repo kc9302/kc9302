@@ -71,7 +71,7 @@
 
 ---
 
-## 2026 Focus
+## 2025 Focus
 
 1. LLM Agent 신뢰성 향상 (tool-calling accuracy, failure recovery)
 2. 실서비스형 Evaluation 파이프라인 구축 (benchmark + regression)
