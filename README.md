@@ -8,14 +8,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Focus-LLM%20Engineering-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="Main Focus" />
-  <img src="https://img.shields.io/badge/Public_Repos-20-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/Python_Repos-15-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Repos" />
-  <img src="https://img.shields.io/badge/Updated_30d-5-16a34a?style=for-the-badge" alt="Updated 30d" />
+  <img src="https://img.shields.io/badge/Public_Repos-22-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Python_Repos-17-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Repos" />
+  <img src="https://img.shields.io/badge/Updated_30d-4-16a34a?style=for-the-badge" alt="Updated 30d" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kc9302&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc9302&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=kc9302&hide_border=true&theme=transparent" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/7c3aed/kc9302" alt="Contribution Graph" width="90%" />
 </p>
 
 ---
@@ -72,11 +74,11 @@
 
 ---
 
-## 2025 Focus
+## 2026 Focus
 
-1. LLM Agent 신뢰성 향상 (tool-calling accuracy, failure recovery)
-2. 실서비스형 Evaluation 파이프라인 구축 (benchmark + regression)
-3. 학습 데이터 기반 개인화 AI 기능 고도화 (IRT/SAKT + Agent)
+1. 대학 학사 데이터 기반 추천 시스템 구축 (비교과·직무·마이크로디그리 등 추천 API, 피처엔지니어링 자동화)
+2. xAPI + LLM 기반 학습 분석(AI-LRS): 학습 이탈 위험 탐지, 성취기준 오토라벨링, AI 피드백 생성
+3. LLM Agent 신뢰성 향상 (tool-calling accuracy, failure recovery) 및 실서비스형 Evaluation 파이프라인 (benchmark + regression)
 
 ---
 
