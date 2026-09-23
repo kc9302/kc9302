@@ -76,7 +76,7 @@
 
 ## 2026 Focus
 
-1. 대학 학사 데이터 기반 추천 시스템 구축 (비교과·직무·마이크로디그리 등 추천 API, 피처엔지니어링 자동화)
+1. 대학 학사 데이터 기반 추천 시스템 구축 (비교과·직무 등 추천 API, 피처엔지니어링 자동화)
 2. xAPI + LLM 기반 학습 분석(AI-LRS): 학습 이탈 위험 탐지, 성취기준 오토라벨링, AI 피드백 생성
 3. LLM Agent 신뢰성 향상 (tool-calling accuracy, failure recovery) 및 실서비스형 Evaluation 파이프라인 (benchmark + regression)
 
