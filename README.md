@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/kc9302/kc9302/main/banner.png" width="100%" alt="Profile Banner" />
   <h1>노경철 | kc9302</h1>
   <p><strong>LLM Systems Engineer · Agent Orchestration · Applied AI</strong></p>
-  <p>LangGraph 기반 AI Agent 설계, LLM 성능 검증, 교육 도메인 AI 서비스 구현에 집중합니다.</p>
+  <p>5년간 교육 AI 서비스(지식추적·추천 모델)를 개발·인증·운영한 경험 위에, LangGraph 기반 AI Agent와 LLM 평가 체계를 쌓아 올리고 있습니다.</p>
 </div>
 
 <p align="center">
@@ -22,7 +22,8 @@
 
 ## Positioning
 
-- **LLM Specialist**: LLM 기반 서비스 설계부터 평가/운영까지 엔드투엔드로 구현합니다.
+- **Production ML Background**: SAKT·DeepFM 기반 학습 진단/추천 모델을 KOLAS 공인시험(ISO/IEC 25023) 통과 후 실서비스로 5년간 운영했습니다. MLflow·Airflow 기반 MLOps와 지식증류 경량화까지 담당했습니다.
+- **LLM Specialist**: 그 운영 경험을 바탕으로 LLM 기반 서비스 설계부터 평가/운영까지 엔드투엔드로 구현합니다.
 - **Agent Builder**: LangGraph + Tool Calling + Memory 구조로 실사용 가능한 에이전트를 만듭니다.
 - **Applied AI Engineer**: 교육/학습 도메인에서 모델을 API 서비스로 제품화하는 데 강점이 있습니다.
 
@@ -32,12 +33,12 @@
 
 | Repository | Focus | Key Stack |
 | :--- | :--- | :--- |
-| [AI_Assistant](https://github.com/kc9302/AI_Assistant) | Google Calendar 연동 지능형 AI 에이전트 | LangGraph, FastAPI, Ollama, Flutter |
-| [Multi-Agent_Test](https://github.com/kc9302/Multi-Agent_Test) | 에듀 도메인 멀티에이전트 실험 | Python, Multi-Agent Workflow |
-| [sLLM_test](https://github.com/kc9302/sLLM_test) | 오픈소스 sLLM 성능 테스트 | LLM Evaluation, Notebook |
-| [sLVM_test](https://github.com/kc9302/sLVM_test) | 오픈소스 sLVM 성능 테스트 | Model Benchmarking, Notebook |
-| [SAKT_Service](https://github.com/kc9302/SAKT_Service) | SAKT 기반 학습 서비스 API | Python, FastAPI, Knowledge Tracing |
-| [IRT_Service](https://github.com/kc9302/IRT_Service) | IRT(3PL) 기반 학습 능력 추정 API | Python, FastAPI, IRT |
+| [auto-data-analyzer-](https://github.com/kc9302/auto-data-analyzer-) | 운영 DB → ML API·PPTX 리포트 자동 생성 | FastAPI, Streamlit, AutoML, Agent Skill |
+| [Multi-Agent_Test](https://github.com/kc9302/Multi-Agent_Test) | 에듀 도메인 멀티에이전트 (파인튜닝 LLM / 페르소나 / RAG 분기) | LangGraph, Qwen2-7B, RAG |
+| [sLLM_test](https://github.com/kc9302/sLLM_test) | 오픈소스 sLLM 9종 로컬 파인튜닝·응답 비교 | Unsloth, bnb-4bit, LoRA |
+| [SAKT_Service](https://github.com/kc9302/SAKT_Service) | SAKT 학습·지식증류·서빙 통합 패키지 | PyTorch, FastAPI, Knowledge Tracing |
+| [mlflow_hyperparameter_tuning](https://github.com/kc9302/mlflow_hyperparameter_tuning) | MLflow 기반 하이퍼파라미터 튜닝·모델 레지스트리 | MLflow, PyTorch Lightning |
+| [DeepFM_Certification](https://github.com/kc9302/DeepFM_Certification) | AI 품질인증용 DeepFM 평가 패키지 (Training/Inference 분리) | PyTorch, Model Certification |
 
 ---
 
